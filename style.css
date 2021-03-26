@@ -1,0 +1,22 @@
+*{
+    direction: rtl;
+    font:arial;
+}
+
+a{
+    text-align: none;
+}
+
+ul{
+    list-style: none;
+}
+nav .top-nave{
+    background-color: ;
+}
+nav .top-nave .nav-icon{
+    display: flex;
+    flex-direction: row;
+}
+.fas{
+    color: black;
+}
